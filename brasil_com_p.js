@@ -1,0 +1,1 @@
+console.log("pelos palanques políticos prometem, prometem ... pura palhaçada");
