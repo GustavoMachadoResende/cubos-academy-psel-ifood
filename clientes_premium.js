@@ -1,1 +1,1 @@
-console.log("clientes importantes para o estabelecimento");
+console.log("clientes importantes que gastam mais de R$ 1000,00, e alguns itens valem mais de R$200,00");
