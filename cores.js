@@ -1,0 +1,1 @@
+console.log("violeta, anil, azul, verde, amarelo, laranja e vermelho");
