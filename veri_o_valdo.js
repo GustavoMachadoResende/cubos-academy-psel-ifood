@@ -1,0 +1,1 @@
+console.log("artista e colecionador de obras");
