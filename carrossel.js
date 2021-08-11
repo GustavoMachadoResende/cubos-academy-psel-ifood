@@ -1,0 +1,1 @@
+console.log("novela infantil, brinquedo, cavalos, sequência de imagens");
